@@ -1,6 +1,16 @@
 # Sales Analysis Excel Project
 Sales analysis project using Excel with pivot tables and charts.
+## Dashboard
+![Dashboard](Screenshot%202026-03-13%20234026.png)
 
+## Sales Insights
+![Sales Insights](Screenshot%202026-03-13%20234040.png)
+
+## Pivot Tables
+![Pivot Tables](Screenshot%202026-03-13%20234059.png)
+
+## Dataset
+![Dataset](Screenshot%202026-03-13%20234118.png)
 ## Project Overview
 
 This project focuses on analyzing sales data using Microsoft Excel. The objective of the analysis is to identify key sales trends, understand product performance, and extract insights that could support better business decisions.
