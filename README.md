@@ -5,10 +5,10 @@ This project focuses on analyzing sales data using Microsoft Excel. The objectiv
 
 The project demonstrates how Excel can be used as a data analysis tool through data cleaning, pivot tables, and visualizations.
 ## Sales Dashboard
-![Dashboard](Screenshot-2026-03-13-234026.png)
+![Dashboard](dashboard.png)
 
 ## Dataset
-![Dataset](Screenshot-2026-03-13-234118.png)
+![Dataset](sales_data.png)
 ## Dataset
 
 The dataset contains sales transaction data including information such as:
